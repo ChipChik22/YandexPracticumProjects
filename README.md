@@ -1,7 +1,8 @@
 
 # YandexPracticum projects
 
-![https://practicum.yandex.ru/](https://practicum.yandex.ru/)(https://github.com/ChipChik22/repository/blob/main/ya.png)
+![https://practicum.yandex.ru/](https://github.com/ChipChik22/repository/blob/main/ya.png)
+[Обычная ссылка с title](https://practicum.yandex.ru/)
 
 
 
