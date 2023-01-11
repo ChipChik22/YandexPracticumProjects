@@ -3,7 +3,7 @@
 
 
 
-![https://github.com/ChipChik22/repository/blob/main/ya.png](https://practicum.yandex.ru/)
+[![Yandex](https://github.com/ChipChik22/repository/blob/main/ya.png)](https://practicum.yandex.ru/)
 
 
 
