@@ -1,17 +1,6 @@
-
 # YandexPracticum projects
 
-
-
 [![Yandex](https://github.com/ChipChik22/repository/blob/main/ya.png)](https://practicum.yandex.ru/)
-
-
-
-
- 
- 
-
- 
 
 | Название | Описание | Используемые библиотеки |
 | ------------- |:------------------:| -----:|
