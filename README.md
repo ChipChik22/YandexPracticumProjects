@@ -1,8 +1,10 @@
 
-![Иллюстрация к проекту](https://github.com/ChipChik22/repository/blob/main/ya.png)
+# YandexPracticum projects
+
+![https://practicum.yandex.ru/](https://github.com/ChipChik22/repository/blob/main/ya.png)
 
 
-# Данные проекты были выполнены в процессе обучения в ЯндексПрактикуме в jupyter nootebook
+
  
  
 
