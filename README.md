@@ -1,5 +1,7 @@
+[Image alt](https://github.com/ChipChik22/repository/blob/main/ya.png)
 
-#Данные проекты были выполнены в процессе обучения в ЯндексПрактикуме в jupyter nootebook
+
+# Данные проекты были выполнены в процессе обучения в ЯндексПрактикуме в jupyter nootebook
  
  
 
