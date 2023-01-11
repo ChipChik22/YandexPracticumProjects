@@ -1,5 +1,5 @@
-[Image alt](https://github.com/ChipChik22/repository/blob/main/ya.png)
 
+![alt-текст]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/ChipChik22/repository/blob/main/ya.png) "Текст заголовка логотипа 1")
 
 # Данные проекты были выполнены в процессе обучения в ЯндексПрактикуме в jupyter nootebook
  
