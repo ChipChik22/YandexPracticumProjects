@@ -1,4 +1,7 @@
- Данные проекты были выполнены в процессе обучения в ЯндексПрактикуме в jupyter nootebook
+Внутри строки:  
+![alt-текст](https://www.google.com/search?q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8+%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81+%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%B0&sxsrf=AJOqlzVb2frgw-YPbHE7_ai_E4i3gtJGZg:1673423931089&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6kuL3hb_8AhVC_CoKHZeyCqEQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=eo_oo88JgHDcVM)
+
+#Данные проекты были выполнены в процессе обучения в ЯндексПрактикуме в jupyter nootebook
  
  
  
